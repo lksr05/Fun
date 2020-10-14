@@ -1,0 +1,22 @@
+.container {
+  height: 400px;
+  position: relative;
+  border: 5px solid rgb(46, 196, 158);
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#btn {
+  font-size: 40px;
+  color: rgb(37, 37, 17);
+  height: 100px;
+  width: 200px;
+  background-image: url("https://3pageplus.com/wp-content/uploads/2019/03/change-background-color-on-wix-1024x678.jpg");
+}
